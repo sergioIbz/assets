@@ -4,6 +4,10 @@
 
 >Desarrollador dedicado a Flutter, enfocado en crear experiencias móviles de calidad.
 
-|[circular animation](https://github.com/sergioIbz/circular_animation)|[Recorte](https://github.com/sergioIbz/recorte)|
+|[Recorte](https://github.com/sergioIbz/recorte)|[Giroscopio](https://github.com/sergioIbz/osaka)|
+|------------|------------|
+|![](https://github.com/sergioIbz/assets/raw/master/animaciones/recorte.gif)| |
+
+|[circular animation](https://github.com/sergioIbz/circular_animation)|[SlideShow](https://github.com/sergioIbz/slideshow)|
 |------------|-------------|
-|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif?raw=true) | ![image](https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif?raw=true)|
+|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif)|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/slide.gif)|
